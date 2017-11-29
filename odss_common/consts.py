@@ -4,4 +4,4 @@ SERVICE_BUNDLE_ID = '__module-id__'
 SERVICE_RANKING = '__service-priority__'
 FRAMEWORK_UUID = '__framework-uuid__'
 
-ACTIVATOR = '__atto_module_activatro__'
+ACTIVATOR_CLASS = 'Activator'
