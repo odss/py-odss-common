@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='py-odss-common',
+    name='odss-common',
     packages=find_packages(),
     version='0.1',
     description=''
